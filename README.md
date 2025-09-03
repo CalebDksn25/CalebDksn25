@@ -24,13 +24,11 @@ I’m a sophomore studying **Computer Science & Mathematics at San Diego State U
 ---
 
 ### Featured Projects (pinned)
-> Pin these repos on your profile (Settings ▸ Repositories ▸ Pin). Use clear, hyphenated names.
 
 - **ai-studio-<project-name>** — Fall AI Studio project. End‑to‑end ML with data prep, training, evaluation, and a small demo app.
 - **orderly-email-parser** — Python pipeline that parses purchase emails and logs order data to Google Sheets.
 - **voodies-mobile-ui** — UX components and patterns inspired by the Voodies front‑end redesign.
 
-> Tip: Keep each repo clean: a great README, clear structure, install & run instructions, tests, and sample data.
 
 ---
 
