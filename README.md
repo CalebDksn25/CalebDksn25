@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Caleb Dickson 👋</h1>
 <p align="center">
-  <strong>Break Through Tech AI Fellow • CS & Mathematics @ SDSU • Front‑End Lead experience</strong><br/>
-  I build ML-powered, user-friendly products — with Python on the data side and React/Flutter on the front end.
+  <strong>Break Through Tech AI Fellow • CS & Mathematics @ SDSU</strong><br/>
+  I build ML-powered, user-friendly products — built to solve complex problems.
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@ I’m a sophomore studying **Computer Science & Mathematics at San Diego State U
 
 - 🔭 **Interests:** NLP/LLMs, practical ML, data pipelines, front‑end performance
 - 🧰 **Tech:** Python, PyTorch, scikit‑learn, Pandas, SQL • React/TypeScript, Flutter/Dart • Git, Linux
-- 💼 **Open to:** Fall/Spring **AI/ML or full‑stack** internships and project collaborations
+- 💼 **Open to:** **Summer** internships and project collaborations
 - 📫 **Reach me:** caleb.n.dickson@gmail.com
 
 ---
 
-### Featured Projects (pinned)
+### Featured Projects
 
 - **ai-studio-<project-name>** — Fall AI Studio project. End‑to‑end ML with data prep, training, evaluation, and a small demo app.
 - **orderly-email-parser** — Python pipeline that parses purchase emails and logs order data to Google Sheets.
@@ -35,13 +35,13 @@ I’m a sophomore studying **Computer Science & Mathematics at San Diego State U
 ### Tech I Use
 | ML / Data | App / Front‑end | Infra / Tools |
 |---|---|---|
-| Python • PyTorch • scikit‑learn • Pandas • NumPy • Jupyter | React • TypeScript • Flutter/Dart • HTML/CSS | SQL • Git/GitHub • FastAPI • Streamlit • Docker (basics) |
+| Python • PyTorch • scikit‑learn • Pandas • NumPy • Jupyter | React • TypeScript • Flutter/Dart • HTML/CSS | SQL • Git/GitHub • API's |
 
 ---
 
 ### Recent Highlights
 - Led front‑end efforts that shipped a new video scroll page experience with start up food discovery social media app.
-- Built small NLP/LLM experiments for finance extraction and summarization.
+- Built email monitoring system for e-commerce sellers, to speed up inventory and tax preparation.
 - Organized/participated in WCO SDSU events with guest speakers and peer learning.
 
 ---
@@ -49,7 +49,7 @@ I’m a sophomore studying **Computer Science & Mathematics at San Diego State U
 ### Resume & Links
 - LinkedIn: https://www.linkedin.com/in/caleb-n-dickson/
 - Email: **caleb.n.dickson@gmail.com**
-- Portfolio: (https://www.calebdickson-portfolio.com/)
+- Portfolio: https://www.calebdickson-portfolio.com/
 
 ---
 
