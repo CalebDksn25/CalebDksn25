@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Caleb Dickson 👋</h1>
+<h1 align="center">Hi, I'm Caleb Dickson</h1>
 <p align="center">
   <strong>CS & Mathematics @ SDSU</strong><br/>
   I build ML-powered, user-friendly products — built to solve complex problems.
@@ -14,11 +14,10 @@
 ---
 
 ### About Me
-I’m a junior studying **Computer Science & Mathematics at San Diego State University** and a **Break Through Tech AI Fellow**. I enjoy solving complex problems through technology that have a real world impact.
+I’m a junior studying **Computer Science & Mathematics at San Diego State University** and a **Break Through Tech AI Fellow**, as well as an **Incoming SWE @ BAE Systems**. I enjoy solving complex problems through technology that have a real world impact.
 
 - 🔭 **Interests:** AI/ML & SWE
 - 🧰 **Tech:** Python, PyTorch, scikit‑learn, Pandas, SQL • React/TypeScript, Flutter/Dart, JavaScript, C, C++ • Git, Linux
-- 💼 **Open to:** **Summer** internships and project collaborations
 - 📫 **Reach me:** caleb.n.dickson@gmail.com
 ---
 
@@ -26,6 +25,5 @@ I’m a junior studying **Computer Science & Mathematics at San Diego State Univ
 - LinkedIn: https://www.linkedin.com/in/caleb-n-dickson/
 - Email: caleb.n.dickson@gmail.com
 - Portfolio: https://www.calebdickson-portfolio.com/
-
 ---
 
