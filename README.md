@@ -14,4 +14,5 @@ I’m a junior studying **Computer Science & Mathematics at San Diego State Univ
 ---
 
 ### GitHub Stats
-[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebDksn25)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CalebDksn25&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CalebDksn25&layout=compact&theme=dark)
