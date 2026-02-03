@@ -2,7 +2,6 @@
 <p align="center">
   <strong>CS @ SDSU | SWE </strong><br/>
 </p>
----
 
 ### About Me
 I’m a junior studying **Computer Science & Mathematics at San Diego State University** and a **Break Through Tech AI Fellow**, as well as an **Incoming SWE @ BAE Systems**. I enjoy solving complex problems through technology that have a real world impact.
@@ -15,5 +14,4 @@ I’m a junior studying **Computer Science & Mathematics at San Diego State Univ
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebDksn25&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebDksn25&layout=compact&theme=dark)
+[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebDksn25)](https://github.com/anuraghazra/github-readme-stats)
