@@ -1,10 +1,7 @@
-<h1 align="center">Hi, I'm Caleb Dickson</h1>
 <p align="center">
+  <strong>Hi, I'm Caleb Dickson.</strong> 
   <strong>CS @ SDSU | SWE </strong><br/>
 </p>
-
-### About Me
-<p align="left">I’m a junior studying **Computer Science & Mathematics at San Diego State University** and a **Break Through Tech AI Fellow**, as well as an **Incoming SWE @ BAE Systems**.</p>
 ---
 
 ### Reach Me
