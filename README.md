@@ -4,7 +4,7 @@
 </p>
 
 ### About Me
-I’m a junior studying **Computer Science & Mathematics at San Diego State University** and a **Break Through Tech AI Fellow**, as well as an **Incoming SWE @ BAE Systems**. I enjoy solving complex problems through technology that have a real world impact.
+<p align="left">I’m a junior studying **Computer Science & Mathematics at San Diego State University** and a **Break Through Tech AI Fellow**, as well as an **Incoming SWE @ BAE Systems**.</p>
 ---
 
 ### Reach Me
