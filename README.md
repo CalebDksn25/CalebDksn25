@@ -3,6 +3,8 @@
   <strong>CS @ SDSU | SWE </strong><br/>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calebdksn25&" alt="calebdksn25" /></p>
+
 ### Reach Me
 - LinkedIn: https://www.linkedin.com/in/caleb-n-dickson/
 - Email: caleb.n.dickson@gmail.com
